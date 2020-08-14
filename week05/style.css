@@ -1,0 +1,13 @@
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+.thumbnail {
+    width: 64px !important;
+    height: 64px !important;
+}
+
+h6 {
+    line-height: 1.5em;
+}
+
